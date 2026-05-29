@@ -86,7 +86,7 @@ Software Engineering Enthusiast • Full Stack Developer • AI/ML Explorer
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKajol&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Software Engineering Enthusiast • Full Stack Developer • AI/ML Explorer
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SreeKajol&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -102,11 +102,11 @@ Software Engineering Enthusiast • Full Stack Developer • AI/ML Explorer
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/SreeKajol" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/kajoldebnath" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
