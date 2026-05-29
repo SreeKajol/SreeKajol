@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Kajol Deb Nath
 
-<!--
-**SreeKajol/SreeKajol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Passionate about Coding & AI  
+🌱 Currently learning Full Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![Kajol's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[Facebook](https://facebook.com/)
+[LinkedIn](https://linkedin.com/)
