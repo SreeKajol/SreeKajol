@@ -5,7 +5,7 @@ Software Engineering Enthusiast • Full Stack Developer • AI/ML Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Technologies&center=true&width=650&height=45&color=58A6FF&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+and+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Technologies&center=true&width=650&height=45&color=58A6FF&vCenter=true&pause=1000&size=24" />
 </p>
 
 ---
