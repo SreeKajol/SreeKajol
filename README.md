@@ -76,9 +76,9 @@ Software Engineering Enthusiast • Full Stack Developer • AI/ML Explorer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreeKajol&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeKajol&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
