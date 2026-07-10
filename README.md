@@ -38,9 +38,9 @@ Computer Science & Engineering
 
 📍 Bangladesh
 
-Expected Graduation: XXXX
+Expected Graduation: 2027
 
-Current CGPA: XXXX *(Optional)*
+Current CGPA: 3.80
 
 ---
 
@@ -50,7 +50,9 @@ Current CGPA: XXXX *(Optional)*
 
 🏅 **1500+ Problems Solved**
 
-🏅 **Codeforces Specialist (1200+ Rating)**
+🏅 **Codeforces Pupil (1200+ Rating)**
+
+🏅 **CodeChef 2* (1573 Rating)**
 
 🏅 Regular participant in Programming Contests
 
@@ -156,16 +158,6 @@ Data Structures • Algorithms • STL • Graph • DP • Number Theory
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreeKajol&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeKajol&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKajol&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
