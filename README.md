@@ -1,336 +1,159 @@
-# Hi there 👋 I'm Kajol Deb Nath
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D69,100:1F4E79&height=180&section=header&text=Kajol%20Deb%20Nath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20%40%20MBSTU%20%E2%80%A2%20AI%2FML%20Researcher%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=16" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E7D69&center=true&vCenter=true&width=620&lines=AI+%2F+ML+%7C+NLP+%7C+Computer+Vision;Building+RAG+%26+LLM+apps+for+Bangla+learners;Solved+1500%2B+problems+%7C+Codeforces+Pupil;Aspiring+MS%2FPhD+researcher" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/kajoldebnath/"><img src="https://img.shields.io/badge/LinkedIn-kajoldebnath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kajoldebnath702@gmail.com"><img src="https://img.shields.io/badge/Email-kajoldebnath702-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Pupil%20(1285)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SreeKajol&label=Profile%20views&color=2E7D69&style=flat" alt="profile views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering** undergraduate at **Mawlana Bhashani Science and Technology University (MBSTU)**, Tangail, Bangladesh. I build AI systems for real problems, such as a Bangla AI tutor for schools with poor internet and OCR for low-resource scripts. I'm preparing for **MS/PhD** studies in AI.
+
+- 🔬 **Research:** Document AI / OCR, LLMs & RAG, Explainable AI (XAI)
+- 🤖 **Building:** LLM-powered apps for low-connectivity regions of Bangladesh
+- 🏆 **Competitive Programming:** 1500+ problems solved, 100+ contests
+- 🌱 **Learning:** Deep Learning, System Design, Cloud Computing
+- 📍 Jagannathpur, Sunamganj, Bangladesh
+
+<table>
+<tr>
+<td align="center"><b>🎓 CGPA</b><br/>3.813 / 4.00</td>
+<td align="center"><b>🏅 Class Position</b><br/>3rd</td>
+<td align="center"><b>📄 Paper</b><br/>Submitted to ICCIT 2026</td>
+<td align="center"><b>💡 Problems Solved</b><br/>1500+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research
+
+**End-to-End Segmentation-Free Pixel-to-Text Transcription Using Domain-Adapted Swin-BART Architecture**
+*Submitted to ICCIT 2026* · Computer Vision / OCR / Document AI
+
+- OCR for **Syloti Nagri**, a low-resource script, by adapting **Donut (Swin Transformer + BART)** with an extended tokenizer
+- ~14,000-image synthetic dataset; a segmentation-based VGG-19 baseline failed on 98.1% of lines because of overlapping glyphs
+- **0.0006 page-level CER** on synthetic data and **7.33% CER** on 272 real manuscript pages (zero-shot/classical baselines: 0.37 CER)
+
+**Research interests:** Artificial Intelligence · Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · Explainable AI · AI for Agriculture & Fisheries
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🧑‍🏫 **[Mastermoshai (মাস্টারমশাই)](https://github.com/SreeKajol)** | Bangla AI study companion for the NCTB curriculum. One laptop serves a whole classroom over LAN. Answers are grounded in ~3,300 textbook chunks with citations and keep working when the internet drops. | FastAPI · FAISS · E5 · Llama-3.3 (Groq) · SQLite · PWA |
+| 🎓 **[Central Alumni MBSTU](https://github.com/SreeKajol)** | Alumni platform with role-based access, profiles, events and directory search, plus a Spring Boot microservice for mentor matching and recommendations. | Laravel 11 · PHP · MySQL · Tailwind · Spring Boot |
+| 🔐 **[CipherShield](https://github.com/SreeKajol)** | Console tool to encrypt and decrypt files with XOR, Caesar, Substitution, Playfair, RSA and DES-style ciphers. | C |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <h3 align="center">
-    Software Engineering Enthusiast • Full Stack Developer • AI/ML Researcher • Competitive Programmer
-  </h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js&perline=6" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv,fastapi,laravel,spring,androidstudio&perline=6" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mysql,sqlite&perline=5" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,latex&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;1500%2B+Problems+Solved;Codeforces+Specialist;Full+Stack+Developer;AI+%26+Machine+Learning+Researcher;Software+Engineering+Enthusiast;Open+Source+Contributor&center=true&width=750&height=45&color=58A6FF&vCenter=true&pause=1000&size=24"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SreeKajol&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+**AI / LLM:** RAG · FAISS · Sentence-Transformers · Groq & Gemini APIs · Prompt Engineering · Kaggle · Colab
+**Networking:** TCP/IP · LAN/WAN · HTTP · DNS · DHCP
 
 ---
 
-# 👨‍💻 About Me
+## 🏆 Competitive Programming
 
-🎓 **B.Sc. in Computer Science & Engineering**  
-🏫 Mawlana Bhashani Science and Technology University (MBSTU)
-
-I'm passionate about building scalable software, researching Artificial Intelligence, and solving real-world problems through technology.
-
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🔬 Researching Explainable AI (XAI) & LLM Applications
-- 🚀 Interested in Software Engineering & Backend Systems
-- 🌱 Currently learning System Design, Cloud Computing & AI Engineering
-- ❤️ Love Open Source & Community Building
+- ⭐ **Codeforces:** Pupil (max rating 1285)
+- ⭐ **CodeChef:** 3-Star
+- 🔥 **1500+ problems** solved on Codeforces, CodeChef, AtCoder, LeetCode, UVa, VJudge and others
+- 🏁 **100+** online and onsite contests
+- 📚 Strong in: Data Structures · Algorithms · Graph Theory · Dynamic Programming · Number Theory · STL
 
 ---
 
-# 🎓 Education
+## 🥇 Achievements
 
-### 🎓 Mawlana Bhashani Science and Technology University (MBSTU)
+- 🥇 **Academic Scholarship, 1st Position** (3rd year, CGPA 3.905), Dept. of CSE, MBSTU, 2026
+- 🥉 **Academic Scholarship, 3rd Position** (2nd year, CGPA 3.842), Dept. of CSE, MBSTU, 2026
+- 🏅 **Programming Camp 2023**, CSE MBSTU: Ranked 4th (8 problems)
+- 🏅 **CodeElevate Camp 2023**, Jahangirnagar University: Ranked 21st (individual)
+- 💻 **Breaking Code'23**, CSE MBSTU: Team ranked 40th among 200 contestants
+- ⚽ **VC Cup 2024 Football Champion (Unbeaten)**, representing Dept. of CSE
+- 🧪 **1st Place (Upazila)**, Creative Talent Search Competition, Physics & Chemistry, 2019
+- 🤖 Hackathons: **The Infinity AI BuildFest 2026** (CloudCamp Bangladesh), **July Hackathon 2026** (JRA)
 
-**Bachelor of Science**
-
-Computer Science & Engineering
-
-📍 Tangail, Bangladesh
-
-Current CGPA : 3.80
-
----
-
-# 🏆 Competitive Programming
-
-<p align="center">
-
-🏅 **1500+ Problems Solved**
-
-⭐ **Codeforces Pupil (1200+ Rating)**
-
-💻 Regular Participant in Programming Contests
-
-📚 Strong in
-
-Data Structures • Algorithms • Graph Theory • Dynamic Programming • STL • Number Theory
-
-</p>
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs"/>
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-</p>
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
-</p>
-
----
-
-# 🔬 Research Interests
-
-- Artificial Intelligence
-- Explainable AI (XAI)
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Large Language Models (LLMs)
-- AI for Agriculture
-- AI for Fisheries
-- Software Engineering
-- Backend Engineering
-- Cloud Computing
-- Open Source
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Artificial Intelligence
-
-- Explainable AI for Fish Classification
-- AI Applications using LLMs
-- Computer Vision Projects
-
-### 🌐 Full Stack Development
-
-- Authentication Systems
-- REST APIs
-- Modern Web Applications
-
-### 💻 Software Engineering
-
-- Java Desktop Applications
-- Backend Systems
-- Open Source Projects
-
----
-
-# 🏅 Licenses & Certifications
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
 
 | Certificate | Organization | Year |
-|--------------|--------------|------|
-| 🧠 THE INFINITY AI BUILDFEST 2026 | CloudCamp Bangladesh | 2026 |
+|---|---|---|
 | 🤖 Intro to Machine Learning | Kaggle | 2026 |
+| 🧠 The Infinity AI BuildFest 2026 | CloudCamp Bangladesh | 2026 |
+| 📱 Mobile App Development | ICT Division, Bangladesh | 2025 |
 | 🗄️ SQL (Basic) | HackerRank | 2025 |
-| 📱 Mobile App Development | ICT Division | 2025 |
+
+</details>
 
 ---
 
-# 🏆 Achievements
+## 🤝 Leadership & Volunteering
 
-🥇 Academic Scholarship (2nd Year, 3rd Position) — MBSTU (2026)
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br/>
 
-🏆 VC Cup Football Champion 2024 (Department of CSE)
+| Role | Organization | Period |
+|---|---|---|
+| 🎓 Academic Coordinator (Math & CP), Senior Executive Member | Boson Biggan Sangho | Jan 2024 – Feb 2026 |
+| 💻 Event Organizer, Breaking Code 2.0 (IDPC 2026) | Dept. of CSE, MBSTU | Jan 2026 |
+| ⚽ Event Organizer | CPL Football 2K26 | 2026 |
+| 🌍 Campus Representative | Excellence Bangladesh | Feb 2025 – Jun 2026 |
+| 🌿 Executive Member, Wildlife Olympiad 2024 | Bangladesh Forest Department | Sep 2024 |
+| ❤️ Volunteer | National High School Programming Contest (NHSPC) | May 2025 |
+| 📷 Executive | MBSTU Photographic Society | — |
+| 🎬 Joint Training Editor | MBSTU Film Society | Oct 2025 – Present |
+| 👦 Member | Children's Heaven, MBSTU | May 2023 – Present |
+| 🌱 Member | MBSTU Clean | Jan 2025 – Present |
 
-🏅 Programming Camp 2023 (MBSTU) — Ranked 4th (Solved 8 Problems)
-
-🏅 CodeElevate Camp 2023 (Jahangirnagar University) — Ranked 21st
-
-🥇 1st Place (Upazila) – Creative Talent Exploration Competition (Physics & Chemistry)
-
-🔥 Solved **1500+ Programming Problems**
-
-⭐ Codeforces Pupil (1200+ Rating)
-
----
-
-# 💼 Leadership & Volunteer Experience
-
-## 🎓 Boson Biggan Sangho
-
-**Academic Coordinator (Math & Competitive Programming)**
-**Senior Executive Member**
-
-- Mentored students in Mathematics & Competitive Programming
-- Organized STEM events & workshops
+</details>
 
 ---
 
-## 🌍 Excellence Bangladesh
+## 📊 GitHub Stats
 
-**Campus Representative**
-
-- Organized academic and leadership activities
-- Worked on youth development initiatives
-
----
-
-## 💻 IDPC 2026 – Breaking Code 2.0
-
-**Event Organizer**
-
-- Organized departmental programming contest
-- Coordinated participants & judges
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SreeKajol&show_icons=true&hide_border=true&theme=transparent&title_color=2E7D69&icon_color=2E7D69" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKajol&layout=compact&hide_border=true&theme=transparent&title_color=2E7D69" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=SreeKajol&hide_border=true&theme=transparent&ring=2E7D69&fire=2E7D69&currStreakLabel=2E7D69" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SreeKajol&bg_color=00000000&color=2E7D69&line=2E7D69&point=1F4E79&area=true&hide_border=true" />
+</div>
 
 ---
 
-## 🌿 Bangladesh Wildlife Olympiad 2024
+<div align="center">
 
-**Executive Member**
+💡 *"Code with purpose. Learn continuously. Build solutions that create impact."*
 
-- Organized district-level Wildlife Olympiad
-- Promoted wildlife conservation awareness
+⭐ Thanks for visiting! Feel free to explore my repositories and connect with me.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E7D69&height=100&section=footer" width="100%"/>
 
-## ❤️ National High School Programming Contest (NHSPC)
-
-**Volunteer**
-
-- Assisted in organizing the national programming contest
-
----
-
-## 👦 Children's Heaven, MBSTU
-
-**Member**
-
-- Working for underprivileged children
-- Participating in social welfare activities
-
----
-
-## 🎬 MBSTU Film Society
-
-**Joint Training Editor**
-
-- Organizing workshops & film screenings
-- Promoting creative storytelling
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreeKajol&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeKajol&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeKajol&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SreeKajol&theme=algolia&row=2&column=4&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-[![Kajol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeKajol&theme=github-dark)](https://github.com/SreeKajol)
-
-</p>
-
----
-
-# 📌 Current Focus
-
-```text
-✓ Software Engineering
-
-✓ Full Stack Development
-
-✓ Backend Engineering
-
-✓ Artificial Intelligence
-
-✓ Explainable AI (XAI)
-
-✓ Large Language Models (LLMs)
-
-✓ Research & Publications
-
-✓ Competitive Programming
-
-✓ Open Source Contribution
-
-✓ System Design & Cloud Computing
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/SreeKajol" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/kajoldebnath" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:kajoldn702@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Code with purpose. Learn continuously. Build solutions that create impact."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+</div>
