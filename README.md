@@ -81,7 +81,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Mawlana Bhashani Sci
 - ⭐ **Codeforces:** Pupil (max rating 1285)
 - ⭐ **CodeChef:** 3-Star
 - 🔥 **1500+ problems** solved on Codeforces, CodeChef, AtCoder, LeetCode, UVa, VJudge and others
-- 🏁 **100+** online and onsite contests
+- 🏁 **150+** online and onsite contests
 - 📚 Strong in: Data Structures · Algorithms · Graph Theory · Dynamic Programming · Number Theory · STL
 
 ---
